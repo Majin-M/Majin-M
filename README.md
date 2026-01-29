@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Titre avec Animation -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=35&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=600&lines=Marc+Steven+MOUTHOUD;Concepteur+d'Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=35&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=600&lines=Marc+Steven+MOUTHOUD;BIG+DATA;Full+Stack" alt="Typing SVG" />
   </h1>
 
   <!-- Badges Rapides -->
