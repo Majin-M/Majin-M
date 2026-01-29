@@ -7,7 +7,6 @@
   <!-- Badges Rapides -->
   <div>
     <img src="https://img.shields.io/badge/Location-France-blue?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location"/></br>
-    <img src="https://img.shields.io/badge/Data_Science-2b8a3e?style=for-the-badge" alt="Focus"/></br>
   </div>
 
   <!-- Liens Sociaux -->
