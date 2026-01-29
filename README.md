@@ -1,8 +1,4 @@
 <div align="center">
-
-  <!-- Photo de Profil -->
-  <img src="https://avatars.githubusercontent.com/u/81118856?v=4&size=64" alt="Avatar Marc" width="150" style="border-radius: 50%; border: 4px solid #fbbf24; box-shadow: 0 0 20px rgba(251, 191, 36, 0.5);"/>
-
   <!-- Titre avec Animation -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=35&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=600&lines=Marc+Steven+MOUTHOUD;Concepteur+d'Applications" alt="Typing SVG" />
