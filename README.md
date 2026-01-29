@@ -25,17 +25,9 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+
 
 > "La technologie est meilleure quand elle relie les gens."
-
-Je suis un développeur passionné, à l'aise à la fois dans le monde du **Web Development** et celui de la **Data Science**. Mon objectif est de combiner ces deux univers pour créer des applications non seulement fonctionnelles, mais aussi intelligentes et axées sur l'expérience utilisateur.
-
-*   🔭 Je travaille actuellement en tant que **Data Manager**.
-*   🌱 J'approfondis mes connaissances en **React** et en architecture **Frontend** moderne.
-*   💡 Je suis curieux de nature et j'aime résoudre des problèmes complexes.
-
----
 
 ## 💻 Stack Technique
 
