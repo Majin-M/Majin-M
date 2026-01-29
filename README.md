@@ -1,8 +1,3 @@
-1.  🇫🇷 Localisation mise à jour sur **France**.
-2.  💼 Titre mis à jour sur **Concepteur d'applications**.
-3.  🗂️ Section projets renommée pour ne pas forcément les présenter comme "récents".
-
-```markdown
 <div align="center">
 
   <!-- Photo de Profil (Avatar GitHub par défaut) -->
@@ -124,4 +119,3 @@ Des projets concrets qui allient code et créativité.
 <code>marcsmouthoud@gmail.com</code>
 
 </div>
-```
