@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Photo de Profil -->
-  <img src="https://avatars.githubusercontent.com/u/134857688?v=4"(https://avatars.githubusercontent.com/u/81118856?v=4&size=64) alt="Avatar Marc" width="150" style="border-radius: 50%; border: 4px solid #fbbf24; box-shadow: 0 0 20px rgba(251, 191, 36, 0.5);"/>
+  <img src="https://avatars.githubusercontent.com/u/81118856?v=4&size=64" alt="Avatar Marc" width="150" style="border-radius: 50%; border: 4px solid #fbbf24; box-shadow: 0 0 20px rgba(251, 191, 36, 0.5);"/>
 
   <!-- Titre avec Animation -->
   <h1>
