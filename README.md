@@ -1,14 +1,3 @@
-
-
-C'est compris. Vous voulez une vision d'ensemble structurée par **colonnes** thématiques (Langages, Frameworks, Outils...) plutôt qu'une pile de petites cartes, tout en évitant que cela devienne une simple liste verticale.
-
-Pour garantir que le tableau reste lisible sur GitHub (et ne déborde pas sur mobile), je propose de scinder les colonnes en **deux tableaux alignés**.
-
-Cela permet d'avoir de grandes colonnes claires comme demandé (Colonne UX/UI, Colonne Langages, etc.).
-
-Voici la version finale à copier :
-
-```markdown
 <div align="center">
 
   <!-- Photo de Profil -->
@@ -137,4 +126,3 @@ Des projets concrets qui allient code et créativité.
 <code>marcsmouthoud@gmail.com</code>
 
 </div>
-```
