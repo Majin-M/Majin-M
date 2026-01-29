@@ -7,12 +7,11 @@
   <!-- Badges Rapides -->
   <div>
     <img src="https://img.shields.io/badge/Location-France-blue?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location"/></br>
-    <img src="https://img.shields.io/badge/Data_Science-2b8a3e?style=for-the-badge" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Data_Science-2b8a3e?style=for-the-badge" alt="Focus"/></br>
   </div>
 
   <!-- Liens Sociaux -->
   <div style="margin-top: 15px;">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://www.linkedin.com/in/stewmthd/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
