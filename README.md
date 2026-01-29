@@ -66,45 +66,6 @@ J'ai organisé mes compétences en deux tableaux pour une meilleure lisibilité.
 
 ---
 
-## 🚀 Mes Projets
-
-Des projets concrets qui allient code et créativité.
-
-### 1. 🤖 Détection de Visage
-> Une application Web de Computer Vision utilisant des classificateurs pré-entraînés pour identifier les visages sur des images importées.
-
-*   **Stack :** `Streamlit` `OpenCV` `Python`
-*   **Points forts :** Traitement d'image en temps réel, interface intuitive.
-*   **👉 [Voir le projet live](https://face-detection-stew.streamlit.app/)**
-
----
-
-### 2. 📊 Prédicteur d'Inclusion Financière
-> Outil d'analyse prédictive pour estimer la possession de comptes bancaires à partir de données démographiques (Afrique de l'Est).
-
-*   **Stack :** `Streamlit` `Scikit-learn` `Pandas`
-*   **Points forts :** Analyse exploratoire (EDA), Machine Learning, Data Viz.
-*   **👉 [Voir le projet live](https://inclusionfinanciere-stew.streamlit.app/)**
-
----
-
-### 3. 💬 Chatbot Intelligent
-> Agent conversationnel capable de répondre aux utilisateurs à partir du contenu analysé d'un livre électronique.
-
-*   **Stack :** `Streamlit` `NLP` `Python`
-*   **Points forts :** Traitement de texte PDF, recherche sémantique.
-*   **👉 [Voir le projet live](https://chatbot-stew.streamlit.app/)**
-
----
-
-## 🏆 Certifications & Formation
-
-*   ✅ **The Data Science Bootcamp** - *Gomycode*
-*   ✅ **SQL Intermediate** - *SoloLearn*
-*   ✅ **Certificat Data Manager** - *Dakar Institute of Technology*
-
----
-
 ## 📈 Mes Statistiques GitHub
 
 <div align="center">
