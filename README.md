@@ -1,9 +1,20 @@
+
+
+C'est compris. Vous voulez une vision d'ensemble structurée par **colonnes** thématiques (Langages, Frameworks, Outils...) plutôt qu'une pile de petites cartes, tout en évitant que cela devienne une simple liste verticale.
+
+Pour garantir que le tableau reste lisible sur GitHub (et ne déborde pas sur mobile), je propose de scinder les colonnes en **deux tableaux alignés**.
+
+Cela permet d'avoir de grandes colonnes claires comme demandé (Colonne UX/UI, Colonne Langages, etc.).
+
+Voici la version finale à copier :
+
+```markdown
 <div align="center">
 
-  <!-- Photo de Profil (Avatar GitHub par défaut) -->
+  <!-- Photo de Profil -->
   <img src="https://avatars.githubusercontent.com/u/134857688?v=4" alt="Avatar Marc" width="150" style="border-radius: 50%; border: 4px solid #fbbf24; box-shadow: 0 0 20px rgba(251, 191, 36, 0.5);"/>
 
-  <!-- Titre avec Animation Texte -->
+  <!-- Titre avec Animation -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=35&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=600&lines=Marc+Steven+MOUTHOUD;Concepteur+d'Applications" alt="Typing SVG" />
   </h1>
@@ -45,17 +56,25 @@ Je suis un développeur passionné, à l'aise à la fois dans le monde du **Web 
 ---
 
 ## 💻 Stack Technique
-Langages & Bases de données
-PythonJavaScriptSQLPHP
 
-Frameworks & Bibliothèques
-ReactDjangoStreamlitScikit-learn
+J'ai organisé mes compétences en deux tableaux pour une meilleure lisibilité.
 
-Data Science & Vision
-OpenCVNLPJupyter
+### 🖥️ Développement & Backend
+*Regroupement des langages, frameworks et bases de données.*
 
-Outils & Design
-GitGitHubFigma
+| 🧠 **Langages** | ⚛️ **Frameworks** | 🗄️ **Base de données** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"/> <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <br> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/> | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/> <br> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/> |
+
+<br>
+
+### 🎨 Design, Data & Outils
+*Regroupement du design, de la Data Science et des outils de développement.*
+
+| 🎨 **UX / Design** | 📊 **Data Science** | 🤖 **Vision & NLP** | 🛠️ **Outils** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy"/> <br> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Sklearn"/> | <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV"/> <br> <img src="https://img.shields.io/badge/NLP-003B57?style=flat&logo=IBM&logoColor=white" alt="NLP"/> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <br> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/> |
+
 ---
 
 ## 🚀 Mes Projets
@@ -104,7 +123,7 @@ Des projets concrets qui allient code et créativité.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Majin-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majin-M&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-  <!-- Activity Graph (Fonctionne si vous commitez régulièrement) -->
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majin-M&theme=tokyo-night" alt="Activity Graph"/>
 
 </div>
@@ -118,3 +137,4 @@ Des projets concrets qui allient code et créativité.
 <code>marcsmouthoud@gmail.com</code>
 
 </div>
+```
