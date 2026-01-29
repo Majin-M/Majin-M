@@ -45,18 +45,17 @@ Je suis un développeur passionné, à l'aise à la fois dans le monde du **Web 
 ---
 
 ## 💻 Stack Technique
+Langages & Bases de données
+PythonJavaScriptSQLPHP
 
-Voici un tableau détaillé des technologies et outils que je maîtrise ou que j'utilise quotidiennement.
+Frameworks & Bibliothèques
+ReactDjangoStreamlitScikit-learn
 
-| Domaine | Technologies & Outils |
-| :--- | :--- |
-| **🎨 Frontend** | `![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)` `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)` `![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)` `![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)` |
-| **⚙️ Backend** | `![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)` `![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)` `![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)` |
-| **🗄️ Base de données** | `![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)` `![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)` |
-| **📊 Data Science** | `![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)` `![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)` `![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)` |
-| **🤖 Vision & NLP** | `![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)` `![NLP](https://img.shields.io/badge/NLP-003B57?style=flat&logo=IBM&logoColor=white)` |
-| **🛠️ Outils** | `![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)` `![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)` `![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)` |
+Data Science & Vision
+OpenCVNLPJupyter
 
+Outils & Design
+GitGitHubFigma
 ---
 
 ## 🚀 Mes Projets
