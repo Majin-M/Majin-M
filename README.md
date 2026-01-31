@@ -30,7 +30,7 @@
 
 | 🎨 **UX / Design** | 📊 **Data Science** | 🤖 **Vision & NLP** | 🛠️ **Outils** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy"/> <br> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Sklearn"/> | <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV"/> <br> <img src="https://img.shields.io/badge/NLP-003B57?style=flat&logo=IBM&logoColor=white" alt="NLP"/> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <br> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/> |
+| <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy"/> <br> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Sklearn"/> | <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV"/> <br> <img src="https://img.shields.io/badge/NLP-003B57?style=flat&logo=IBM&logoColor=white" alt="NLP"/>
 
 ---
 
