@@ -22,26 +22,11 @@
 
 </div>
 
----
-
-
-
-> "La technologie est meilleure quand elle relie les gens."
-
-## 💻 Stack Technique
-
-
-### 🖥️ Développement
-*Regroupement des langages, frameworks et bases de données.*
-
 | 🧠 **Langages** | ⚛️ **Frameworks** | 🗄️ **Base de données** |
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"/> <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <br> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/> | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/> <br> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/> |
 
 <br>
-
-### 🎨 Design, Data & Outils
-*Regroupement du design, de la Data Science et des outils de développement.*
 
 | 🎨 **UX / Design** | 📊 **Data Science** | 🤖 **Vision & NLP** | 🛠️ **Outils** |
 | :---: | :---: | :---: | :---: |
