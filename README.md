@@ -23,10 +23,12 @@
 
 ## 👤 À propos
 
-Étudiant en Data passionné par la **construction de pipelines de données robustes** et le **développement d'applications**.  
-Mon objectif : devenir un Data Engineer accompli, capable de concevoir des architectures de bout en bout — de l'ingestion des données brutes jusqu'à la mise à disposition d'insights exploitables.
+Data Engineer passionné par la **construction de pipelines de données robustes** et le **développement d'applications**.  
+Je conçois des architectures de bout en bout — de l'ingestion des données brutes jusqu'à la mise à disposition d'insights exploitables.
 
 Je porte une attention particulière au **clean code**, à la **documentation structurée** et à la **modélisation des flux de données** (draw.io), que ce soit pour des pipelines ETL/ELT ou des applications full stack.
+
+En veille active sur l'écosystème **Data Lakehouse** : dbt · Databricks · Snowflake · Apache Airflow · Apache Spark · Hadoop.
 
 ---
 
@@ -88,6 +90,22 @@ Je porte une attention particulière au **clean code**, à la **documentation st
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+</div>
+
+---
+
+## 📚 En cours d'apprentissage
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 
 </div>
 
@@ -99,8 +117,8 @@ Je porte une attention particulière au **clean code**, à la **documentation st
 
 | Projet | Description | Stack |
 |---|---|---|
-| 🏛️ **Data Warehouse Analytics** | Pipeline ETL complet Bronze→Silver→Gold, modélisation dimensionnelle, procédures stockées documentées | SQL Server · MERISE · draw.io |
-| 👁️ **Face Detection App** | Application de détection de visages en temps réel avec paramètres configurables | Python · OpenCV · Streamlit |
+| 🏛️ [**Data Warehouse Analytics**](https://github.com/Majin-M/sql-data-warehouse-project) | Pipeline ETL complet Bronze→Silver→Gold, modélisation dimensionnelle, procédures stockées documentées, architecture draw.io | SQL Server · MERISE · draw.io |
+| 👁️ [**Face Detection App**](https://github.com/Majin-M/Face-detection) | Application de détection de visages en temps réel avec paramètres configurables et clean code documenté | Python · OpenCV · Streamlit |
 
 </div>
 
