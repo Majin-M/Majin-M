@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Marc%20Steven%20MOUTHOUD&fontSize=42&fontColor=fbbf24&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descColor=a78bfa&animation=twinkling" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=fbbf24&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%93%8A;Pipeline+ETL%2FELT+%F0%9F%94%84;Data+Modeling+%26+Architecture+%F0%9F%97%84%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80;Clean+Code+%26+Documentation+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=fbbf24&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%93%8A;Pipeline+ETL%2FELT+%F0%9F%94%84;Data+Modeling+%26+Architecture+%F0%9F%97%84%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
