@@ -23,12 +23,14 @@
 
 ## 👤 À propos
 
-Data Engineer passionné par la **construction de pipelines de données robustes** et le **développement d'applications**.  
-Je conçois des architectures de bout en bout — de l'ingestion des données brutes jusqu'à la mise à disposition d'insights exploitables.
+**Data Engineer & développeur**, je conçois des solutions qui relient les données, les traitements et les applications qui les exploitent.
 
-Je porte une attention particulière au **clean code**, à la **documentation structurée** et à la **modélisation des flux de données** (draw.io), que ce soit pour des pipelines ETL/ELT ou des applications full stack.
+Je travaille sur la chaîne de données de bout en bout : **ingestion, transformation, modélisation, stockage et orchestration**, avec une attention particulière portée à la qualité et à la lisibilité des flux. Je m’intéresse aussi à la conception d’applications full stack, ce qui me permet de comprendre comment les données circulent jusqu’à leur utilisation finale.
 
-En veille active sur l'écosystème **Data Lakehouse** : dbt · Databricks · Snowflake · Apache Airflow · Apache Spark · Hadoop.
+Dans mes projets, je cherche à rendre les systèmes **compréhensibles, reproductibles et maintenables** : modélisation des flux, documentation, clean code et représentation des architectures avec des outils comme **draw.io** font partie de cette démarche.
+
+Je développe actuellement mes compétences sur les architectures **Data Lakehouse**, notamment avec **dbt, Databricks, Snowflake, Apache Airflow et Apache Spark**.
+
 
 ---
 
