@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" role="img" aria-label="Prix des carburants, projet en cours : ingestion quotidienne des prix de 9 800 stations, 2 étapes sur 6 réalisées.">
+<title>Prix des carburants, projet en cours : ingestion quotidienne des prix de 9 800 stations, 2 étapes sur 6 réalisées.</title>
+<style>
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .serif { font-family: Georgia, 'Times New Roman', serif; }
+  @keyframes allumer { from { opacity: .12 } to { opacity: 1 } }
+  @keyframes tracer { from { stroke-dashoffset: 1 } to { stroke-dashoffset: 0 } }
+  @keyframes apparaitre { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+  @keyframes pouls { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+  .allume { animation: allumer .8s ease both; }
+  .trace { stroke-dasharray: 1; animation: tracer 1.6s cubic-bezier(.3,.7,.2,1) both; }
+  .apparait { animation: apparaitre .9s ease both; }
+  .pouls { animation: pouls 2.4s ease-in-out infinite; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .particule { display: none; } }
+</style>
+<defs>
+  <radialGradient id="halo" cx="0.7" cy="0.55" r="0.7"><stop offset="0" stop-color="#d4703f" stop-opacity=".12"/><stop offset="1" stop-color="#d4703f" stop-opacity="0"/></radialGradient>
+  <linearGradient id="estompe" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".6"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <mask id="masque-grille"><rect width="600" height="360" fill="url(#estompe)"/></mask>
+  <filter id="lueur" filterUnits="userSpaceOnUse" x="0" y="0" width="600" height="360"><feGaussianBlur stdDeviation="3" result="f"/><feMerge><feMergeNode in="f"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="600" height="360" rx="14" fill="#0b0d0e"/>
+<rect width="600" height="360" rx="14" fill="url(#halo)"/>
+<g stroke="#23272a" stroke-width="1" mask="url(#masque-grille)"></g>
+
+  <text x="28" y="40" class="mono" font-size="11" letter-spacing="1.5" fill="#8fdcee">02 · INGESTION QUOTIDIENNE</text>
+  <text x="28" y="78" class="serif" font-size="30" fill="#e8e5dc">Prix des carburants</text>
+  <text x="28" y="102" class="mono" font-size="12" fill="#a9a69c">Historisation · station la moins chère autour de soi</text>
+  <circle cx="34" cy="140" r="4" fill="#8fdcee" class="pouls"/>
+  <text x="46" y="144" class="mono" font-size="11" letter-spacing="1.5" fill="#8fdcee">EN COURS · 2/6 ÉTAPES</text>
+  <path d="M156,214 L540,214" stroke="#3a3f42" stroke-dasharray="3 5"/>
+  <path d="M60,214 L156,214" pathLength="1" class="trace" style="animation-delay:.4s" stroke="#8fdcee" stroke-width="1.5" filter="url(#lueur)"/>
+  <text x="60" y="192" text-anchor="middle" class="mono" font-size="10" letter-spacing="1" fill="#e8e5dc">RAW</text>
+    <circle cx="60" cy="214" r="5" fill="#8fdcee" stroke="#0b0d0e" stroke-width="2"/><text x="156" y="192" text-anchor="middle" class="mono" font-size="10" letter-spacing="1" fill="#e8e5dc">INGEST</text>
+    <circle cx="156" cy="214" r="5" fill="#8fdcee" stroke="#0b0d0e" stroke-width="2"/><text x="252" y="192" text-anchor="middle" class="mono" font-size="10" letter-spacing="1" fill="#8a877f">TRANSFORM</text>
+    <circle cx="252" cy="214" r="4" fill="#0b0d0e" stroke="#3a3f42" stroke-width="1"/><text x="348" y="192" text-anchor="middle" class="mono" font-size="10" letter-spacing="1" fill="#8a877f">MODEL</text>
+    <circle cx="348" cy="214" r="4" fill="#0b0d0e" stroke="#3a3f42" stroke-width="1"/><text x="444" y="192" text-anchor="middle" class="mono" font-size="10" letter-spacing="1" fill="#8a877f">STORE</text>
+    <circle cx="444" cy="214" r="4" fill="#0b0d0e" stroke="#3a3f42" stroke-width="1"/><text x="540" y="192" text-anchor="middle" class="mono" font-size="10" letter-spacing="1" fill="#8a877f">ANALYZE</text>
+    <circle cx="540" cy="214" r="4" fill="#0b0d0e" stroke="#3a3f42" stroke-width="1"/>
+  <circle class="particule" r="2.6" fill="#8fdcee" filter="url(#lueur)"><animateMotion dur="1.6s" begin="1s" repeatCount="indefinite" path="M60,214 L156,214"/></circle><circle class="particule" r="2.6" fill="#8fdcee" filter="url(#lueur)"><animateMotion dur="1.6s" begin="1.53s" repeatCount="indefinite" path="M60,214 L156,214"/></circle><circle class="particule" r="2.6" fill="#8fdcee" filter="url(#lueur)"><animateMotion dur="1.6s" begin="2.06s" repeatCount="indefinite" path="M60,214 L156,214"/></circle>
+  <g class="mono" font-size="11" fill="#a9a69c">
+    <text x="60" y="248" text-anchor="middle">9 800 stations</text>
+    <text x="156" y="248" text-anchor="middle">1 photo / jour</text>
+  </g>
+  <text x="28" y="338" class="mono" font-size="11" fill="#a9a69c">Python · dbt  <tspan fill="#8a877f">·  source : data.economie.gouv.fr</tspan></text>
+<rect x=".5" y=".5" width="599" height="359" rx="14" fill="none" stroke="#3a3f42"/>
+</svg>
