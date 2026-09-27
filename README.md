@@ -1,6 +1,6 @@
-<img src="assets/banniere.svg" width="100%" alt="Marc Steven Mouthoud, Data Engineer. Pipelines de données fiables, testés et documentés." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2532&height=190&section=header&text=Marc%20Steven%20Mouthoud&fontSize=54&fontColor=e6edf3&fontAlign=50&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20pipelines%20fiables%2C%20test%C3%A9s%20et%20document%C3%A9s&descSize=20&descAlign=50&descAlignY=72&animation=fadeIn" width="100%" alt="Marc Steven Mouthoud, Data Engineer. Pipelines fiables, testés et documentés." />
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/stewmthd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:marcsmouthoud@gmail.com"><img src="https://img.shields.io/badge/Email-marcsmouthoud%40gmail.com-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email : marcsmouthoud@gmail.com" /></a>
   <img src="https://img.shields.io/badge/Localisation-France-30363d?style=for-the-badge" alt="Localisation : France" />
@@ -26,9 +26,12 @@ Mon expérience en développement full stack me donne une vision complète du pa
 
 **[Entrepôt de données SQL](https://github.com/Majin-M/sql-data-warehouse-project)** · *projet guidé (Data With Baraa), adapté en français* : données CRM et ERP consolidées en architecture Medallion, schéma en étoile, vues de reporting, contrôles qualité.
 
+<a href="https://github.com/Majin-M/inclusion_financiere"><img src="assets/projet-inclusion.svg" width="100%" alt="Inclusion financière en Afrique de l'Est : 23 524 réponses FinScope, 14,1 % des répondants ont un compte bancaire, AUC 0,853, rappel de 32,5 %. Barres : part des répondants ayant un compte par type d'emploi, de 77,5 % pour les salariés du public à 2,1 % sans revenu." /></a>
+
+**[Inclusion financière](https://github.com/Majin-M/inclusion_financiere)** · analyse exploratoire et nettoyage d'enquêtes FinScope, modèle Random Forest évalué sur un jeu de test (rappel et AUC, pas seulement la précision), application Streamlit.
+
 | Autres projets | Description | Stack |
 |---|---|---|
-| [Inclusion financière](https://github.com/Majin-M/inclusion_financiere) | Prédiction de l'accès aux services bancaires en Afrique de l'Est : analyse exploratoire, nettoyage, Random Forest, interface Streamlit | Python · Pandas · scikit-learn · Streamlit |
 | [Détection de visages](https://github.com/Majin-M/Face-detection) | Détection de visages en temps réel, paramètres réglables | Python · OpenCV · Streamlit |
 
 ## Feuille de route
@@ -55,4 +58,8 @@ Mon expérience en développement full stack me donne une vision complète du pa
 
 ## Activité
 
-<img src="https://streak-stats.demolab.com/?user=Majin-M&theme=github-dark-blue&hide_border=true&locale=fr" alt="Série de contributions GitHub" />
+<p align="center">
+  <img src="github-metrics.svg" width="100%" alt="Activité GitHub de Majin-M : profil, calendrier des contributions sur un an et langages les plus utilisés, mis à jour chaque nuit." />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c2532,100:0d1117&height=40&section=footer" width="100%" alt="" />
