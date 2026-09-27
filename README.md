@@ -1,155 +1,116 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Marc%20Steven%20MOUTHOUD&fontSize=42&fontColor=fbbf24&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descColor=a78bfa&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d0e,100:1b2226&height=190&section=header&text=Marc%20Steven%20MOUTHOUD&fontSize=40&fontColor=e8e5dc&fontAlignY=38&desc=Des%20donn%C3%A9es%20brutes%20%C3%A0%20l'information&descAlignY=60&descColor=d4703f&animation=fadeIn" alt="Marc Steven Mouthoud · Des données brutes à l'information" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=fbbf24&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%93%8A;Pipeline+ETL%2FELT+%F0%9F%94%84;Data+Modeling+%26+Architecture+%F0%9F%97%84%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80;Clean+Code+%26+Documentation+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=D4703F&center=true&vCenter=true&width=640&lines=Pipelines+ETL+%2F+ELT+reproductibles;Mod%C3%A8les+en+couches+%3A+raw+%E2%86%92+staging+%E2%86%92+marts;Qualit%C3%A9+des+donn%C3%A9es+test%C3%A9e+%C3%A0+chaque+ex%C3%A9cution;Architecture+Medallion+%3A+bronze+%E2%86%92+silver+%E2%86%92+gold" alt="Pipelines ETL / ELT reproductibles · Modèles en couches · Qualité des données testée · Architecture Medallion" />
 
-<br/>
-
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/stewmthd/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:marcsmouthoud@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/📍%20France-1a1a2e?style=for-the-badge&logoColor=white"/>
+<a href="https://www.linkedin.com/in/stewmthd/"><img src="https://img.shields.io/badge/LinkedIn-0B0D0E?style=for-the-badge&logo=linkedin&logoColor=D4703F" alt="LinkedIn" /></a>
+<a href="mailto:marcsmouthoud@gmail.com"><img src="https://img.shields.io/badge/marcsmouthoud%40gmail.com-0B0D0E?style=for-the-badge&logo=gmail&logoColor=D4703F" alt="E-mail : marcsmouthoud@gmail.com" /></a>
+<img src="https://img.shields.io/badge/France-0B0D0E?style=for-the-badge&logo=googlemaps&logoColor=D4703F" alt="France" />
 
 </div>
 
 ---
 
-## 👤 À propos
+## À propos
 
-**Data Engineer & développeur**, je conçois des solutions qui relient les données, les traitements et les applications qui les exploitent.
+**Data engineer**, je construis des systèmes fiables qui transforment des données brutes en information exploitable : ingestion, transformation, modélisation, stockage, puis ce que les données permettent d'analyser.
 
-Je travaille sur la chaîne de données de bout en bout : **ingestion, transformation, modélisation, stockage et orchestration**, avec une attention particulière portée à la qualité et à la lisibilité des flux. Je m’intéresse aussi à la conception d’applications full stack, ce qui me permet de comprendre comment les données circulent jusqu’à leur utilisation finale.
+Ce qui guide mes projets :
 
-Dans mes projets, je cherche à rendre les systèmes **compréhensibles, reproductibles et maintenables** : modélisation des flux, documentation, clean code et représentation des architectures avec des outils comme **draw.io** font partie de cette démarche.
+- **Montrer le système, pas seulement le résultat** : sources, pipeline, modèle de données, contrôles qualité.
+- **Reproductible** : chaque pipeline se relance en une commande et se rejoue en intégration continue.
+- **Testé** : chaque particularité découverte en explorant les données devient un test automatique.
+- **Documenté** : README, catalogue de données, conventions de nommage et schémas d'architecture (draw.io).
+- **Honnête** : les limites des données sont mesurées et écrites, et les projets guidés sont annoncés comme tels.
 
-Je développe actuellement mes compétences sur les architectures **Data Lakehouse**, notamment avec **dbt, Databricks, Snowflake, Apache Airflow et Apache Spark**.
-
+Mon parcours en développement full stack m'aide à comprendre comment les données circulent jusqu'à l'application qui les utilise.
 
 ---
 
-## 🏗️ Data Engineering
+## Projets
 
-<div align="center">
+| | Projet | Ce qu'il montre | Stack |
+|---|---|---|---|
+| 01 | [**Prénoms de France, 1900-2025**](https://github.com/Majin-M/prenoms_france) | Pipeline sur le fichier des prénoms de l'INSEE (6,6 millions de lignes) : ingestion traçable (sha256, contrôle du schéma), modèle dbt en trois couches, **39 tests de qualité**, intégration continue, export JSON pour une page interactive | Python · DuckDB · dbt · GitHub Actions |
+| G | [**Entrepôt de données SQL**](https://github.com/Majin-M/sql-data-warehouse-project) | Architecture Medallion (bronze → silver → gold) sur des données CRM et ERP, schéma en étoile, vues de reporting, contrôles qualité. *Projet guidé (cours Data With Baraa), adapté en français* | SQL Server · T-SQL · draw.io |
+| 02 | **Prix des carburants** · *en cours* | Ingestion quotidienne des prix des stations, historisation, recherche de la station la moins chère autour de soi | Python · dbt |
+| | [**Inclusion financière**](https://github.com/Majin-M/inclusion_financiere) | Prédiction de l'accès aux services bancaires en Afrique de l'Est : analyse exploratoire, nettoyage, Random Forest, interface Streamlit | Python · Pandas · scikit-learn · Streamlit |
+| | [**Détection de visages**](https://github.com/Majin-M/Face-detection) | Détection de visages en temps réel, paramètres réglables | Python · OpenCV · Streamlit |
 
-### 🔄 Pipeline & Architecture
+---
 
-| Compétence | Détail |
+## Compétences
+
+| Domaine | En pratique |
 |---|---|
-| **ETL / ELT** | Conception et implémentation de pipelines Bronze → Silver → Gold (architecture Medallion) |
-| **Data Modeling** | Modélisation dimensionnelle (tables de faits, dimensions, clés de substitution) |
-| **MERISE** | Conception de schémas conceptuels et logiques de données |
-| **EDA** | Analyse exploratoire pour le profilage et la qualité des données |
-| **Web Scraping** | Collecte et structuration de données depuis des sources web |
-| **Clean Code & Docs** | Procédures stockées documentées, conventions de nommage, traçabilité des chargements |
-| **Architecture visuelle** | Modélisation des flux de données et des architectures pipeline avec draw.io |
+| **Pipelines ETL / ELT** | Couches raw → staging → marts (dbt) et bronze → silver → gold (SQL Server), chargements idempotents et journalisés |
+| **Modélisation** | Modèle dimensionnel (faits, dimensions, clés de substitution), MERISE (modèles conceptuels et logiques) |
+| **Qualité des données** | Tests dbt génériques et singuliers, contrôles SQL, limites des données mesurées et documentées |
+| **Exploration** | Profilage des sources avant de modéliser, constats transformés en règles et en tests |
+| **Collecte** | Web scraping, téléchargement et structuration de sources ouvertes |
+| **Documentation** | Catalogues de données, conventions de nommage, diagrammes d'architecture et de flux |
+
+---
+
+## Stack
+
+<div align="center">
+
+**Data**
+
+<img src="https://img.shields.io/badge/SQL-0B0D0E?style=for-the-badge&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+**Bases de données**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access" />
+
+**Restitution et applications**
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+
+**Outils**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="draw.io" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+
+**En cours d'apprentissage** : architectures lakehouse et orchestration
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 
 </div>
 
 ---
 
-## 🛠️ Stack Technique
+## Activité
 
 <div align="center">
 
-### 🧠 Langages
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-### ⚙️ Data Engineering & Analyse
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-### 🗄️ Bases de données
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
-
-### 🎨 Conception & Dev Application
-
-<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
-
-### 🔧 Outils & DevOps
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
-</div>
-
----
-
-## 📚 En cours d'apprentissage
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-
-</div>
-
----
-
-## 📌 Projets phares
-
-<div align="center">
-
-| Projet | Description | Stack |
-|---|---|---|
-| 🏛️ [**Data Warehouse Analytics**](https://github.com/Majin-M/sql-data-warehouse-project) | Pipeline ETL complet Bronze→Silver→Gold, modélisation dimensionnelle, procédures stockées documentées, architecture draw.io | SQL Server · MERISE · draw.io |
-| 💳 [**Inclusion Financière**](https://github.com/Majin-M/inclusion_financiere) | Prédiction de l'accès aux services bancaires en Afrique de l'Est — pipeline EDA → nettoyage → modélisation Random Forest, interface Streamlit | Python · Scikit-learn · Pandas · Streamlit |
-| 👁️ [**Face Detection App**](https://github.com/Majin-M/Face-detection) | Application de détection de visages en temps réel avec paramètres configurables et clean code documenté | Python · OpenCV · Streamlit |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Majin-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majin-M&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=c9d1d9"/>
+<img src="https://streak-stats.demolab.com/?user=Majin-M&theme=dark&hide_border=true&background=0B0D0E&ring=D4703F&fire=D4703F&currStreakLabel=E8E5DC&sideLabels=A9A69C&dates=8A877F&currStreakNum=E8E5DC&sideNums=E8E5DC&locale=fr" alt="Série de contributions GitHub" />
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Majin-M&theme=tokyonight&hide_border=true&background=0d1117&ring=fbbf24&fire=fbbf24&currStreakLabel=a78bfa" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Majin-M&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=fbbf24&line=a78bfa&point=fbbf24" alt="Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontColor=fbbf24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2226,100:0b0d0e&height=100&section=footer" alt="" />
 </div>
