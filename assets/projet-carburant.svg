@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 500" width="830" height="500" role="img" aria-label="Prix des carburants en France : 5 222 646 changements de prix historisés depuis 2025, 10 112 stations, 53/53 tests dbt. Prix médian au litre le 27/09/2026 : Gazole 2,39 €, SP98 2,27 €, SP95 2,23 €, E10 2,16 €, GPLc 1,02 €, E85 0,87 €." font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Prix des carburants en France : 5 222 646 changements de prix historisés depuis 2025, 10 112 stations, 53/53 tests dbt. Prix médian au litre le 27/09/2026 : Gazole 2,39 €, SP98 2,27 €, SP95 2,23 €, E10 2,16 €, GPLc 1,02 €, E85 0,87 €.</title>
+<rect x=".5" y=".5" width="829" height="499" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="40" y="48" font-size="22" font-weight="700" fill="#e6edf3">Prix des carburants en France</text>
+  <text x="40" y="74" font-size="14" fill="#9ba5b0">Pipeline quotidien sur les fichiers officiels · Python · DuckDB · dbt · GitHub Actions · GitHub Pages</text>
+  <rect x="40" y="96" width="178.5" height="70" rx="6" fill="#161b22" stroke="#30363d"/>
+    <text x="56" y="130" font-size="24" font-weight="700" fill="#e6edf3">5 222 646</text>
+    <text x="56" y="152" font-size="13" fill="#9ba5b0">changements de prix</text><rect x="230.5" y="96" width="178.5" height="70" rx="6" fill="#161b22" stroke="#30363d"/>
+    <text x="246.5" y="130" font-size="24" font-weight="700" fill="#e6edf3">10 112</text>
+    <text x="246.5" y="152" font-size="13" fill="#9ba5b0">stations avec prix</text><rect x="421" y="96" width="178.5" height="70" rx="6" fill="#161b22" stroke="#30363d"/>
+    <text x="437" y="130" font-size="24" font-weight="700" fill="#e6edf3">53/53</text>
+    <text x="437" y="152" font-size="13" fill="#9ba5b0">tests de qualité dbt</text><rect x="611.5" y="96" width="178.5" height="70" rx="6" fill="#161b22" stroke="#30363d"/>
+    <text x="627.5" y="130" font-size="24" font-weight="700" fill="#e6edf3">71,1 %</text>
+    <text x="627.5" y="152" font-size="13" fill="#9ba5b0">prix de 7 jours ou moins</text>
+  <text x="40" y="228" font-size="15" font-weight="600" fill="#e6edf3">Prix médian au litre, données du 27/09/2026</text>
+  <text x="156" y="275" text-anchor="end" font-size="13" fill="#9ba5b0">Gazole</text>
+    <rect x="170" y="262" width="460" height="18" rx="3" fill="#161b22"/>
+    <rect x="170" y="262" width="460.0" height="18" rx="3" fill="#58a6ff"/>
+    <text x="638" y="276" font-size="13" font-weight="700" fill="#e6edf3">2,39 € <tspan font-weight="400" fill="#9ba5b0">· 7 986 stations</tspan></text><text x="156" y="305" text-anchor="end" font-size="13" fill="#9ba5b0">SP98</text>
+    <rect x="170" y="292" width="460" height="18" rx="3" fill="#161b22"/>
+    <rect x="170" y="292" width="436.7" height="18" rx="3" fill="#58a6ff"/>
+    <text x="614.7112970711297" y="306" font-size="13" font-weight="700" fill="#e6edf3">2,27 € <tspan font-weight="400" fill="#9ba5b0">· 6 322 stations</tspan></text><text x="156" y="335" text-anchor="end" font-size="13" fill="#9ba5b0">SP95</text>
+    <rect x="170" y="322" width="460" height="18" rx="3" fill="#161b22"/>
+    <rect x="170" y="322" width="429.0" height="18" rx="3" fill="#58a6ff"/>
+    <text x="607.0125523012553" y="336" font-size="13" font-weight="700" fill="#e6edf3">2,23 € <tspan font-weight="400" fill="#9ba5b0">· 1 956 stations</tspan></text><text x="156" y="365" text-anchor="end" font-size="13" fill="#9ba5b0">E10</text>
+    <rect x="170" y="352" width="460" height="18" rx="3" fill="#161b22"/>
+    <rect x="170" y="352" width="416.3" height="18" rx="3" fill="#58a6ff"/>
+    <text x="594.3096234309623" y="366" font-size="13" font-weight="700" fill="#e6edf3">2,16 € <tspan font-weight="400" fill="#9ba5b0">· 6 421 stations</tspan></text><text x="156" y="395" text-anchor="end" font-size="13" fill="#9ba5b0">GPLc</text>
+    <rect x="170" y="382" width="460" height="18" rx="3" fill="#161b22"/>
+    <rect x="170" y="382" width="196.1" height="18" rx="3" fill="#58a6ff"/>
+    <text x="374.12552301255226" y="396" font-size="13" font-weight="700" fill="#e6edf3">1,02 € <tspan font-weight="400" fill="#9ba5b0">· 887 stations</tspan></text><text x="156" y="425" text-anchor="end" font-size="13" fill="#9ba5b0">E85</text>
+    <rect x="170" y="412" width="460" height="18" rx="3" fill="#161b22"/>
+    <rect x="170" y="412" width="168.0" height="18" rx="3" fill="#58a6ff"/>
+    <text x="346.02510460251045" y="426" font-size="13" font-weight="700" fill="#e6edf3">0,87 € <tspan font-weight="400" fill="#9ba5b0">· 2 742 stations</tspan></text>
+  <text x="40" y="472" font-size="13" fill="#9ba5b0">Prix de 7 jours ou moins, hors prix suspects · mis à jour chaque matin par GitHub Actions</text>
+</svg>
