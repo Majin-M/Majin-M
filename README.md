@@ -16,26 +16,19 @@ Data Engineer, je conçois la chaîne de données de bout en bout : **ingestion,
 
 Mon expérience en développement full stack me donne une vision complète du parcours des données, jusqu'à l'application qui les utilise.
 
-## Projets
+## Projets de data engineering
 
-<a href="https://github.com/Majin-M/Carburant"><img src="assets/projet-carburant.svg" width="100%" alt="Prix des carburants en France : 5 222 646 changements de prix historisés depuis 2025, 10 112 stations, 53/53 tests dbt. Prix médian au litre le 27/09/2026 : Gazole 2,39 €, SP98 2,27 €, SP95 2,23 €, E10 2,16 €, GPLc 1,02 €, E85 0,87 €." /></a>
+| Projet | Ce qu'il fait | En chiffres | Stack |
+|---|---|---|---|
+| **[Prix des carburants](https://github.com/Majin-M/Carburant)**<br>🟢 en production | Pipeline quotidien sur les fichiers officiels : les prix de toutes les stations de France chaque matin, l'historique des changements de prix, un JSON publié sur GitHub Pages | 5 222 646 changements de prix<br>10 112 stations<br>53 tests dbt | Python · DuckDB · dbt · GitHub Actions |
+| **[Prénoms de France](https://github.com/Majin-M/prenoms_france)** | Pipeline batch sur le fichier des prénoms de l'INSEE (1900-2025) : ingestion traçable, modèle en trois couches, export JSON pour une page interactive | 6 622 949 lignes<br>39 tests dbt | Python · DuckDB · dbt · GitHub Actions |
+| **[Entrepôt de données SQL](https://github.com/Majin-M/sql-data-warehouse-project)**<br>*projet guidé* | Données CRM et ERP consolidées en architecture Medallion (bronze, silver, gold) jusqu'à un schéma en étoile | 3 couches<br>60 398 lignes de faits | SQL Server · T-SQL |
 
-**[Prix des carburants](https://github.com/Majin-M/Carburant)** · pipeline quotidien sur les fichiers XML officiels : ingestion en flux et archivage traçable (empreinte sha256), historique des changements de prix, fuseau horaire maîtrisé, 53 tests dbt, chacun vu en échec sur un défaut injecté, planification GitHub Actions et JSON publié sur GitHub Pages.
-
-<a href="https://github.com/Majin-M/prenoms_france"><img src="assets/projet-prenoms.svg" width="100%" alt="Prénoms de France, 1900-2025 : 6 622 949 lignes INSEE, 39 tests de qualité dbt, 126 ans de naissances. Graphique : la part des naissances portée par les 10 prénoms les plus donnés passe de 45,3 % (filles, 1900) à 8,7 % (filles) et 10,7 % (garçons) en 2025." /></a>
-
-**[Prénoms de France](https://github.com/Majin-M/prenoms_france)** · ingestion traçable (empreinte sha256, contrôle du schéma), modèle dbt en trois couches (raw, staging, marts), 39 tests de qualité, CI GitHub Actions, export JSON pour une page interactive.
-
-<a href="https://github.com/Majin-M/sql-data-warehouse-project"><img src="assets/projet-entrepot.svg" width="100%" alt="Entrepôt de données SQL : sources CRM et ERP, couches bronze, silver et gold jusqu'à un schéma en étoile de 60 398 lignes de faits, puis reporting." /></a>
-
-**[Entrepôt de données SQL](https://github.com/Majin-M/sql-data-warehouse-project)** · *projet guidé (Data With Baraa), adapté en français* : données CRM et ERP consolidées en architecture Medallion, schéma en étoile, vues de reporting, contrôles qualité.
-
-<a href="https://github.com/Majin-M/inclusion_financiere"><img src="assets/projet-inclusion.svg" width="100%" alt="Inclusion financière en Afrique de l'Est : 23 524 réponses FinScope, 14,1 % des répondants ont un compte bancaire, AUC 0,853, rappel de 32,5 %. Barres : part des répondants ayant un compte par type d'emploi, de 77,5 % pour les salariés du public à 2,1 % sans revenu." /></a>
-
-**[Inclusion financière](https://github.com/Majin-M/inclusion_financiere)** · analyse exploratoire et nettoyage d'enquêtes FinScope, modèle Random Forest évalué sur un jeu de test (rappel et AUC, pas seulement la précision), application Streamlit.
+Chaque dépôt documente sa source, son architecture, ses tests et ses limites, et se relance en une commande.
 
 | Autres projets | Description | Stack |
 |---|---|---|
+| [Inclusion financière](https://github.com/Majin-M/inclusion_financiere) | Nettoyage d'enquêtes FinScope en Afrique de l'Est et modèle de prédiction de la bancarisation, dans une application | Python · pandas · scikit-learn · Streamlit |
 | [Détection de visages](https://github.com/Majin-M/Face-detection) | Détection de visages en temps réel, paramètres réglables | Python · OpenCV · Streamlit |
 
 ## Feuille de route
